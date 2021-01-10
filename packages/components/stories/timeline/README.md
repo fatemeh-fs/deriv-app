@@ -5,7 +5,7 @@ A timeline is a graphical representation of a chronological sequence of events.
 ## Usage
 
 ```jsx
-import Toast from 'deriv-components';
+import Timeline from 'deriv-components';
 
 const DummyComponent = props => (
     <Timeline>
@@ -31,7 +31,7 @@ const DummyComponent = props => (
 # Full example:
 
 ```jsx
-import Toast from 'deriv-components';
+import Timeline from 'deriv-components';
 
 const DummyComponent = props => (
     <Timeline>
